@@ -1,0 +1,26 @@
+#title{
+    top: -10px;
+}
+#titleLogo{
+    top: 5px;
+}
+header{
+    position: relative;
+}
+.tb_area{
+    width: 960px;
+    height: 550px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.addNoticeBtn{
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+.btn_area{
+    position: relative;
+    width: 960px;
+    text-align: center;
+    margin-top: 15px
+}
